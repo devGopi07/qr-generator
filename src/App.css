@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.details-div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.h-w-div {
+  margin: 25px 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.qrc-div {
+  margin: 20px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.format-select{
+  margin: 20px 0px;
+}
+.btnss{
+  display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+ 
